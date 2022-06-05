@@ -513,3 +513,10 @@ class MyApp extends StatelessWidget {
 ![](screenshots/screenshot1.png)
 
 ![](screenshots/screenshot2.png)
+
+# 開発環境
+
+* Visual Studio Code 1.64
+* Windows 11
+* Flutter 3(web version)
+* Supabase
